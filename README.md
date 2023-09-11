@@ -1,4 +1,6 @@
-# High-Resolution Methods for Scalar Conservation Law
+# High-Resolution Methods for Scalar Conservation Law (2021)
+## graduation thesis
+## Supervisor: Dr. Ong Thanh Hai
 
 ## Table of Contents
 
