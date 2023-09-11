@@ -65,30 +65,12 @@ To use the project and study the high-resolution methods for scalar conservation
 
 - **Educational**: Provides an opportunity to study and understand high-resolution methods in the context of scalar conservation laws.
 
-## Contributing
-
-If you wish to contribute to the project or provide improvements, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or improvement.
-
-3. Implement your changes and document them clearly.
-
-4. Test your changes to ensure they work as expected.
-
-5. Submit a pull request with a descriptive title and explanation of your changes.
-
-## License
-
-This project is available under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions, feedback, or need assistance, please contact the project author:
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
+- **Author**: Nguyen Tu Huy
+- **Email**: nguyentuhuy1951999@gmail.com
 
 Thank you for your interest in the High-Resolution Methods for Scalar Conservation Law graduate thesis project. We hope it contributes to your understanding of numerical methods in the context of conservation laws.
 
