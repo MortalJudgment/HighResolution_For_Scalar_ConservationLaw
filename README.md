@@ -39,7 +39,7 @@ Before you begin, make sure you have the following prerequisites:
 
 To get started with the project, follow these steps:
 
-1. Clone or download this repository to your local machine: git clone https://github.com/MortalJugdment/High_Resolution.git
+1. Clone or download this repository to your local machine: git clone https://github.com/MortalJudgment/HighResolution_For_Scalar_ConservationLaw.git
    
 2. Open MATLAB and navigate to the project directory where you cloned or downloaded the repository.
 
